@@ -13,3 +13,7 @@
 ### Seaborn Practice
 - Applying **_seaborn_** to examine statistical data in **_Jupyter Notebook_**
 ![Screen Shot 2024-02-21 at 6 49 40 PM](https://github.com/anzowu527/Informational-Visualization/assets/77874807/7330ef8c-a17e-4b81-a74c-239068e16e10)
+### Working with Maps
+- Using **_GeoPandas, pyproj, geopy.geocoders_** libraries to make a weather map and estimate some travel distances based on the given data
+<img width="500" alt="Screen Shot 2024-02-21 at 6 58 36 PM" src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/8cb54acc-0972-4d48-90de-d94f498ae5a8">
+<img width="500" alt="Screen Shot 2024-02-21 at 6 58 25 PM" src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/aca4c3a5-c04c-4fb3-a560-ea5f606c0a20">
