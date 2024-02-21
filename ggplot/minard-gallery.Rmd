@@ -1,0 +1,38 @@
+---
+title: "Visualization HW2"
+author: "Anqi Wu"
+date: "2024-01-29"
+output: html_document
+---
+
+
+```{r}
+troops <- read.table("troops.txt", header=T)
+cities <- read.table("cities.txt", header=T)
+temps <- read.table("temps.txt", header=T)
+temps$date <- as.Date(strptime(temps$date,"%d%b%Y"))
+
+library(maps)
+library(ggplot2)
+
+borders <- data.frame(map("world", xlim=c(10,50), ylim=c(40, 80), plot=F)[c("x","y")])
+
+xlim <- scale_x_continuous(limits = c(24, 39))
+
+ggplot(cities, aes(x = long, y = lat)) + 
+    geom_path(aes(size = survivors, colour = direction, group = group), data=troops) + 
+    geom_point() + 
+    geom_text(aes(label = city), hjust=0, vjust=1, size=4) + 
+    scale_size(range = c(1, 10)) + 
+    scale_colour_manual(values = c("grey50","red")) +
+    xlim(24, 39)
+
+ggsave(file = "march1.pdf", width=16, height=4)
+
+ggplot(temps, aes(x = long, y = temp)) + 
+    geom_line() + 
+    geom_text(aes(label = paste(day, month)), vjust=1) + 
+    xlim(24, 39)
+
+ggsave(file = "temps1.pdf", width=16, height=4)
+```
