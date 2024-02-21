@@ -1,7 +1,7 @@
 # Informational-Visualization
 ## Files in Repository
 ### Graphviz Practice
-- Using the web server **_Streamlit_** to draw **_GraphViz_** graphs
+- Accessing **_Graphviz_** layout engine using web server **_Streamlit_** to draw **_Dot Representation_** graphs
 ![graphviz plot](https://github.com/anzowu527/Informational-Visualization/assets/77874807/d538c6a4-983f-46e6-8b8a-41ad8d256c3e)
 ### Matplotlib Practice
 - Using **_Matplotlib_** to write code to display a statistical time series dataset, with the **_median-and-IQR idiom_**
