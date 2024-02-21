@@ -10,4 +10,6 @@
 - Using **_ggplot_** in **_R_** to reproduce the Charles Minard visualization of Napoleon's march to Moscow
 ![march](https://github.com/anzowu527/Informational-Visualization/assets/77874807/861d22bc-8785-4b2a-9f8c-7b538cd0c38a)
 ![temps](https://github.com/anzowu527/Informational-Visualization/assets/77874807/13d27137-ae8f-4e09-bb98-9bcf1c52b410)
-
+### Seaborn Practice
+- Applying **_seaborn_** to examine statistical data in **_Jupyter Notebook_**
+![Screen Shot 2024-02-21 at 6 49 40 PM](https://github.com/anzowu527/Informational-Visualization/assets/77874807/7330ef8c-a17e-4b81-a74c-239068e16e10)
