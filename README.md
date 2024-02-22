@@ -24,4 +24,7 @@
 
 ### Tableau Workshop
 - Using **_Tableau_** to explore Pittsburgh crime datasets
-<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/2da94fe2-60ec-44d6-ab56-d5f5587bcac0" width="500" >
+<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/ffe6f8f7-e22f-4e5f-a90a-53ec04449975" width="470" >
+<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/b1548ffd-f1a9-4aee-9ced-e9b587f2178b" width="470" >
+
+
