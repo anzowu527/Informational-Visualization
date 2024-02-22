@@ -2,8 +2,8 @@
 ## Tableau + Maps + Seaborn + Graphviz + Matplotlib + GGplot Exercises
 ### Tableau Workshop
 - Using **_Tableau_** to explore Pittsburgh crime datasets
-<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/ffe6f8f7-e22f-4e5f-a90a-53ec04449975" width="470" >
-<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/b1548ffd-f1a9-4aee-9ced-e9b587f2178b" width="470" >
+<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/ffe6f8f7-e22f-4e5f-a90a-53ec04449975" width="480" >
+<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/b1548ffd-f1a9-4aee-9ced-e9b587f2178b" width="480" >
 
 ### Working with Maps
 - Using **_GeoPandas, pyproj, geopy.geocoders_** libraries to make a weather map and estimate some travel distances based on the given data
