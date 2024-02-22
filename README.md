@@ -1,5 +1,10 @@
 # Informational-Visualization
-## Graphviz + Matplotlib + GGplot + Seaborn + Maps + Tableau Exercises
+## Tableau + Graphviz + Matplotlib + GGplot + Seaborn + Maps Exercises
+### Tableau Workshop
+- Using **_Tableau_** to explore Pittsburgh crime datasets
+<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/ffe6f8f7-e22f-4e5f-a90a-53ec04449975" width="470" >
+<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/b1548ffd-f1a9-4aee-9ced-e9b587f2178b" width="470" >
+
 ### Graphviz Practice
 - Accessing **_Graphviz_** layout engine using web server **_Streamlit_** to draw **_Dot Representation_** graphs
 <img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/bf76750e-9922-4e66-a844-3417fa36799b" width="500" height='300'>
@@ -21,10 +26,4 @@
 - Using **_GeoPandas, pyproj, geopy.geocoders_** libraries to make a weather map and estimate some travel distances based on the given data
 <img width="500" alt="Screen Shot 2024-02-21 at 6 58 36 PM" src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/8cb54acc-0972-4d48-90de-d94f498ae5a8">
 <img width="500" alt="Screen Shot 2024-02-21 at 6 58 25 PM" src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/aca4c3a5-c04c-4fb3-a560-ea5f606c0a20">
-
-### Tableau Workshop
-- Using **_Tableau_** to explore Pittsburgh crime datasets
-<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/ffe6f8f7-e22f-4e5f-a90a-53ec04449975" width="470" >
-<img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/b1548ffd-f1a9-4aee-9ced-e9b587f2178b" width="470" >
-
 
