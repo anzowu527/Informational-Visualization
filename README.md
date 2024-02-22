@@ -1,5 +1,5 @@
 # Informational-Visualization
-## Graphviz + Matplotlib + GGplot + Seaborn + Maps Exercises
+## Graphviz + Matplotlib + GGplot + Seaborn + Maps + Tableau Exercises
 ### Graphviz Practice
 - Accessing **_Graphviz_** layout engine using web server **_Streamlit_** to draw **_Dot Representation_** graphs
 <img src="https://github.com/anzowu527/Informational-Visualization/assets/77874807/bf76750e-9922-4e66-a844-3417fa36799b" width="500" height='300'>
